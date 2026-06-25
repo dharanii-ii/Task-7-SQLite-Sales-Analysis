@@ -1,0 +1,24 @@
+========================================
+SALES SUMMARY
+========================================
+Total Orders            : 10
+Total Quantity Sold     : 48
+Total Revenue           : Rs. 471,400
+Highest Revenue Product : Laptop
+Highest Product Revenue : Rs. 385,000
+Best Selling Product    : Mouse
+Best Selling Quantity   : 24
+Average Product Price   : Rs. 19,290
+========================================
+
+PRODUCT-WISE SALES ANALYSIS
+ product  Total_Quantity  Revenue  Revenue_Percentage
+  Laptop               7 385000.0               81.67
+ Monitor               5  60000.0               12.73
+Keyboard              12  14400.0                3.05
+   Mouse              24  12000.0                2.55
+
+Charts saved:
+- Revenue_BarChart.png
+- Quantity_BarChart.png
+- Revenue_PieChart.png
