@@ -103,16 +103,3 @@ python task7.py
 
 The script creates `sales_data.db`, prints the sales summary, and saves all chart images in the same folder.
 
-## Interview Questions
-
-**How did you connect Python to a database?**  
-I used the `sqlite3.connect()` function to connect Python with the SQLite database.
-
-**What does GROUP BY do?**  
-`GROUP BY` combines rows with the same product name so that total quantity and revenue can be calculated for each product.
-
-**How did you calculate revenue?**  
-Revenue was calculated by multiplying `quantity * price` and then using `SUM()` to get total revenue.
-
-**What does pandas do in the code?**  
-pandas loads SQL query results into a DataFrame, making the data easier to print, analyze, and visualize.
